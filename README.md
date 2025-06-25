@@ -4,7 +4,7 @@ This project is part of my internship task where I performed **Exploratory Data 
 
 **Objectives**
 
-- Generate summary statistics (mean, median, std, etc.)
+- Generate summary statistics (mean, median, std, etc)
 - Visualize numeric features using histograms and boxplots
 - Analyze feature relationships via pairplots and correlation matrix
 - Detect patterns, trends, and anomalies in the dataset

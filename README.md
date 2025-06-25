@@ -1,4 +1,5 @@
 #Titanic Dataset - Exploratory Data Analysis (EDA)
+
 This project is part of my internship task where I performed **Exploratory Data Analysis (EDA)** on the Titanic dataset to understand data patterns, trends, and relationships using Python libraries like Pandas, Matplotlib, Seaborn, and Plotly.
 
 ##Objectives
